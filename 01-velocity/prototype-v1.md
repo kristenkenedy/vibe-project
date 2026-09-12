@@ -44,9 +44,9 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 
 ## The build
 
-- **What I built:** _____
-- **Tool used:** _____
-- **Shareable link:** _____
+- **What I built:** ProductIQ validates LLM responses and AI agent actions against your product knowledge to show what’s accurate, what fails, and why.
+- **Tool used:** Lovable
+- **Shareable link:** [__https://proto-val-lab.lovable.app/___]
 
 ## Show & Swap read
 
